@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tw.com.youngray.app",
+    "sha256_cert_fingerprints":
+    ["26:81:69:43:C0:2A:30:D8:CF:8B:F3:30:84:E1:41:F4:7D:A9:56:44:13:4F:9D:87:6A:C1:71:83:DD:4D:BD:8F"]
+  }
+}]
